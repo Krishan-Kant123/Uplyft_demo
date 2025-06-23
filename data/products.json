@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 15 Pro",
+    "category": "Mobiles",
+    "price": 99999,
+    "rating": 4.8,
+    "stock": 15,
+    "description": "Latest iPhone with titanium design and A17 Pro chip",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S24",
+    "category": "Mobiles",
+    "price": 79999,
+    "rating": 4.6,
+    "stock": 22,
+    "description": "Flagship Android phone with AI features",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 3,
+    "title": "Redmi Note 13",
+    "category": "Mobiles",
+    "price": 9999,
+    "rating": 4.3,
+    "stock": 25,
+    "description": "Affordable smartphone with AMOLED display",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 4,
+    "title": "OnePlus 12",
+    "category": "Mobiles",
+    "price": 64999,
+    "rating": 4.5,
+    "stock": 18,
+    "description": "Flagship killer with Snapdragon 8 Gen 3",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 5,
+    "title": "Sony WH-1000XM5",
+    "category": "Headphones",
+    "price": 29999,
+    "rating": 4.7,
+    "stock": 12,
+    "description": "Premium noise-canceling headphones",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 6,
+    "title": "JBL Tune 760NC",
+    "category": "Headphones",
+    "price": 2999,
+    "rating": 4.2,
+    "stock": 30,
+    "description": "Wireless headphones with active noise canceling",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 7,
+    "title": "Boat Airdopes 141",
+    "category": "Earphones",
+    "price": 1299,
+    "rating": 4.0,
+    "stock": 45,
+    "description": "True wireless earbuds with 42H playtime",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 8,
+    "title": "Apple AirPods Pro",
+    "category": "Earphones",
+    "price": 24999,
+    "rating": 4.6,
+    "stock": 20,
+    "description": "Premium earbuds with spatial audio",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 9,
+    "title": "MacBook Air M3",
+    "category": "Laptops",
+    "price": 114999,
+    "rating": 4.8,
+    "stock": 8,
+    "description": "Ultra-thin laptop with M3 chip",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 10,
+    "title": "Dell XPS 13",
+    "category": "Laptops",
+    "price": 89999,
+    "rating": 4.4,
+    "stock": 10,
+    "description": "Premium Windows laptop with InfinityEdge display",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 11,
+    "title": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 45999,
+    "rating": 4.1,
+    "stock": 15,
+    "description": "Mid-range laptop for everyday computing",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 12,
+    "title": "Lenovo ThinkPad E14",
+    "category": "Laptops",
+    "price": 52999,
+    "rating": 4.3,
+    "stock": 12,
+    "description": "Business laptop with robust build quality",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 13,
+    "title": "iPad Pro 12.9",
+    "category": "Tablets",
+    "price": 109999,
+    "rating": 4.7,
+    "stock": 6,
+    "description": "Professional tablet with M2 chip",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 14,
+    "title": "Samsung Galaxy Tab S9",
+    "category": "Tablets",
+    "price": 72999,
+    "rating": 4.5,
+    "stock": 9,
+    "description": "Premium Android tablet with S Pen",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 15,
+    "title": "Realme Pad 2",
+    "category": "Tablets",
+    "price": 19999,
+    "rating": 4.0,
+    "stock": 25,
+    "description": "Affordable tablet for entertainment",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 16,
+    "title": "Apple Watch Series 9",
+    "category": "Smartwatches",
+    "price": 41999,
+    "rating": 4.6,
+    "stock": 14,
+    "description": "Advanced smartwatch with health monitoring",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 17,
+    "title": "Samsung Galaxy Watch 6",
+    "category": "Smartwatches",
+    "price": 32999,
+    "rating": 4.4,
+    "stock": 18,
+    "description": "Feature-rich smartwatch with Wear OS",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 18,
+    "title": "Amazfit GTR 4",
+    "category": "Smartwatches",
+    "price": 12999,
+    "rating": 4.2,
+    "stock": 22,
+    "description": "Fitness-focused smartwatch with long battery",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 19,
+    "title": "Canon EOS R6",
+    "category": "Cameras",
+    "price": 189999,
+    "rating": 4.8,
+    "stock": 5,
+    "description": "Professional mirrorless camera",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 20,
+    "title": "Sony Alpha A7 IV",
+    "category": "Cameras",
+    "price": 239999,
+    "rating": 4.9,
+    "stock": 3,
+    "description": "Full-frame mirrorless camera with 33MP sensor",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 21,
+    "title": "Nikon D5600",
+    "category": "Cameras",
+    "price": 54999,
+    "rating": 4.3,
+    "stock": 8,
+    "description": "DSLR camera perfect for beginners",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 22,
+    "title": "GoPro Hero 12",
+    "category": "Cameras",
+    "price": 44999,
+    "rating": 4.5,
+    "stock": 16,
+    "description": "Action camera with 5.3K video recording",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 23,
+    "title": "PlayStation 5",
+    "category": "Gaming",
+    "price": 54999,
+    "rating": 4.7,
+    "stock": 7,
+    "description": "Next-gen gaming console with ray tracing",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 24,
+    "title": "Xbox Series X",
+    "category": "Gaming",
+    "price": 52999,
+    "rating": 4.6,
+    "stock": 9,
+    "description": "Powerful gaming console with 4K gaming",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  },
+  {
+    "id": 25,
+    "title": "Nintendo Switch OLED",
+    "category": "Gaming",
+    "price": 34999,
+    "rating": 4.5,
+    "stock": 13,
+    "description": "Portable gaming console with OLED screen",
+    "image_url": "/placeholder.svg?height=200&width=200"
+  }
+]

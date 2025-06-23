@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 15 Pro",
+    "category": "Mobiles",
+    "price": 99999,
+    "rating": 4.8,
+    "stock": 15,
+    "description": "Latest iPhone with titanium design and A17 Pro chip",
+    "image_url": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S24",
+    "category": "Mobiles",
+    "price": 79999,
+    "rating": 4.6,
+    "stock": 22,
+    "description": "Flagship Android phone with AI features",
+    "image_url": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 3,
+    "title": "Redmi Note 13",
+    "category": "Mobiles",
+    "price": 9999,
+    "rating": 4.3,
+    "stock": 25,
+    "description": "Affordable smartphone with AMOLED display",
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 4,
+    "title": "OnePlus 12",
+    "category": "Mobiles",
+    "price": 64999,
+    "rating": 4.5,
+    "stock": 18,
+    "description": "Flagship killer with Snapdragon 8 Gen 3",
+    "image_url": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 5,
+    "title": "Sony WH-1000XM5",
+    "category": "Headphones",
+    "price": 29999,
+    "rating": 4.7,
+    "stock": 12,
+    "description": "Premium noise-canceling headphones",
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 6,
+    "title": "JBL Tune 760NC",
+    "category": "Headphones",
+    "price": 2999,
+    "rating": 4.2,
+    "stock": 30,
+    "description": "Wireless headphones with active noise canceling",
+    "image_url": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 7,
+    "title": "Boat Airdopes 141",
+    "category": "Earphones",
+    "price": 1299,
+    "rating": 4.0,
+    "stock": 45,
+    "description": "True wireless earbuds with 42H playtime",
+    "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 8,
+    "title": "Apple AirPods Pro",
+    "category": "Earphones",
+    "price": 24999,
+    "rating": 4.6,
+    "stock": 20,
+    "description": "Premium earbuds with spatial audio",
+    "image_url": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 9,
+    "title": "MacBook Air M3",
+    "category": "Laptops",
+    "price": 114999,
+    "rating": 4.8,
+    "stock": 8,
+    "description": "Ultra-thin laptop with M3 chip",
+    "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 10,
+    "title": "Dell XPS 13",
+    "category": "Laptops",
+    "price": 89999,
+    "rating": 4.4,
+    "stock": 10,
+    "description": "Premium Windows laptop with InfinityEdge display",
+    "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 11,
+    "title": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 45999,
+    "rating": 4.1,
+    "stock": 15,
+    "description": "Mid-range laptop for everyday computing",
+    "image_url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 12,
+    "title": "Lenovo ThinkPad E14",
+    "category": "Laptops",
+    "price": 52999,
+    "rating": 4.3,
+    "stock": 12,
+    "description": "Business laptop with robust build quality",
+    "image_url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 13,
+    "title": "iPad Pro 12.9",
+    "category": "Tablets",
+    "price": 109999,
+    "rating": 4.7,
+    "stock": 6,
+    "description": "Professional tablet with M2 chip",
+    "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 14,
+    "title": "Samsung Galaxy Tab S9",
+    "category": "Tablets",
+    "price": 72999,
+    "rating": 4.5,
+    "stock": 9,
+    "description": "Premium Android tablet with S Pen",
+    "image_url": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 15,
+    "title": "Realme Pad 2",
+    "category": "Tablets",
+    "price": 19999,
+    "rating": 4.0,
+    "stock": 25,
+    "description": "Affordable tablet for entertainment",
+    "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 16,
+    "title": "Apple Watch Series 9",
+    "category": "Smartwatches",
+    "price": 41999,
+    "rating": 4.6,
+    "stock": 14,
+    "description": "Advanced smartwatch with health monitoring",
+    "image_url": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 17,
+    "title": "Samsung Galaxy Watch 6",
+    "category": "Smartwatches",
+    "price": 32999,
+    "rating": 4.4,
+    "stock": 18,
+    "description": "Feature-rich smartwatch with Wear OS",
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 18,
+    "title": "Amazfit GTR 4",
+    "category": "Smartwatches",
+    "price": 12999,
+    "rating": 4.2,
+    "stock": 22,
+    "description": "Fitness-focused smartwatch with long battery",
+    "image_url": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 19,
+    "title": "Canon EOS R6",
+    "category": "Cameras",
+    "price": 189999,
+    "rating": 4.8,
+    "stock": 5,
+    "description": "Professional mirrorless camera",
+    "image_url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 20,
+    "title": "Sony Alpha A7 IV",
+    "category": "Cameras",
+    "price": 239999,
+    "rating": 4.9,
+    "stock": 3,
+    "description": "Full-frame mirrorless camera with 33MP sensor",
+    "image_url": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 21,
+    "title": "Nikon D5600",
+    "category": "Cameras",
+    "price": 54999,
+    "rating": 4.3,
+    "stock": 8,
+    "description": "DSLR camera perfect for beginners",
+    "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 22,
+    "title": "GoPro Hero 12",
+    "category": "Cameras",
+    "price": 44999,
+    "rating": 4.5,
+    "stock": 16,
+    "description": "Action camera with 5.3K video recording",
+    "image_url": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 23,
+    "title": "PlayStation 5",
+    "category": "Gaming",
+    "price": 54999,
+    "rating": 4.7,
+    "stock": 7,
+    "description": "Next-gen gaming console with ray tracing",
+    "image_url": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 24,
+    "title": "Xbox Series X",
+    "category": "Gaming",
+    "price": 52999,
+    "rating": 4.6,
+    "stock": 9,
+    "description": "Powerful gaming console with 4K gaming",
+    "image_url": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=200&h=200&fit=crop"
+  },
+  {
+    "id": 25,
+    "title": "Nintendo Switch OLED",
+    "category": "Gaming",
+    "price": 34999,
+    "rating": 4.5,
+    "stock": 13,
+    "description": "Portable gaming console with OLED screen",
+    "image_url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=200&h=200&fit=crop"
+  }
+]
